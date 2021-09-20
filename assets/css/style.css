@@ -1,5 +1,5 @@
 /**
-* Template Name: Medilab - v4.3.0
+* Template Name: RSBWT - v4.3.0
 * Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
@@ -506,7 +506,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 100vh;
   }
   #hero .container {
-    padding-bottom: 63px;
+    padding-bottom: 33px;
   }
   #hero h1 {
     font-size: 28px;
@@ -538,8 +538,8 @@ section {
 }
 
 .section-title {
-  text-align: center;
-  padding-bottom: 30px;
+  text-align:left;
+  padding-bottom: 5px;
 }
 
 .section-title h2 {
